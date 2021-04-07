@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @YunDaeHyeon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center"><h2>👋Hi there!</h2></div>   
+<div align="center">👨‍💻 I am a junior developer who studies development and planning.</div>  
+<div align="center">🏫 I’m currently attending WKU</div>  
+<div align="center">✏️I’m currently learning Android and Java</div>  
+<div align="center">😀I'm not good enough, but I look forward to your kind cooperation.</div>  
+<br/>  
 
-<!---
-YunDaeHyeon/YunDaeHyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table alien = "center ><tr><td valign="top" width="33%">
+<div align = "center"> <h2>🛠️Tech Stack🛠️</h2>
+<p>Techs that I've used at least once<p>
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C++" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+</div>
+<!-- </td><td valign="top" width="33%">
+</td><td valign="top" width="33%"> -->
+</td></tr></table>  
+<div align = "center"> <h2>🍁ME🍁</h2>
+<div align="center">
+<a href="https://github.com/YunDaeHyeon" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ddaehyeon_" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ddaehyeon_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+</div>  
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YunDaeHyeon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
